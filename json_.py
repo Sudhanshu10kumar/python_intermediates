@@ -21,4 +21,4 @@ user=User('Max',27)
 
 def encode_user(o):
     if isinstance(o,user):
-        return {}
+        return {"User1":"hAihs"}
